@@ -7,4 +7,4 @@ Curso de HTML, CSS y JS, redes sociales con cambio de pantalla oscuro y claro, a
 
 watch the live project: 👉 [https://fercho240899.github.io/bookmark-landing-page/](https://fercho240899.github.io/Curso-de-HTML-CSS-Dark-Mode-y-Responsive-Design-Mobile-First/)
 
-![Fernando Castro Amaro](https://repository-images.githubusercontent.com/505017603/3ffe677b-4326-4cb5-839f-485e38d4bc48)
+![Fernando Castro Amaro](https://repository-images.githubusercontent.com/500018490/936e204c-40de-4427-93a0-89d14bc1fca0)
